@@ -106,5 +106,5 @@ var LoginMap = map[string]string{
 	"github": "token",
 	"ldap": "password",
 	"okta": "password",
-    "radius": "password",
+	"radius": "password",
 }
